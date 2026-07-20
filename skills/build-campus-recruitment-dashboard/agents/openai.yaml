@@ -1,0 +1,14 @@
+interface:
+  display_name: "\u4E13\u5C5E\u79CB\u62DB\u770B\u677F"
+  short_description: "\u6839\u636E\u7B80\u5386\u642D\u5EFA\u53EF\u5DE1\u68C0\u3001\
+    \u53EF\u8FFD\u8E2A\u3001\u53EF\u6301\u7EED\u66F4\u65B0\u7684\u4E2A\u6027\u5316\
+    \u79CB\u62DB\u4FE1\u606F\u770B\u677F"
+  default_prompt: "\u4F7F\u7528 $build-campus-recruitment-dashboard \u4E3A\u6211\u642D\
+    \u5EFA\u4E13\u5C5E\u79CB\u62DB\u770B\u677F\u3002"
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
