@@ -7,7 +7,7 @@ Archive of career growth materials, interview records and work efficiency templa
 ### 1. campus-recruit
 秋招台账、企业信息收集、简历优化素材、笔面试复盘笔记
 ### 2. interview-notes
-总助/业务助理岗位面试真题、问答整理、面试经验总结
+泛职能岗位岗位面试经验总结
 ### 3. office-templates
 办公台账、计划表、统筹表格、文档模板（HTML/Excel/Markdown）
 ### 4. learning-notes
