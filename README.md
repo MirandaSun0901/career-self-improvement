@@ -1,7 +1,7 @@
 # career-self-improvement
 ## Introduction
 Archive of career growth materials, interview records and work efficiency templates.
-中文释义：职业成长资料、面试记录与办公效率模板汇总库
+职业成长资料、面试记录与办公效率模板汇总库
 
 ## 📂 Repository Directory Planning
 ### 1. campus-recruit
